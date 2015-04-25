@@ -11,6 +11,11 @@ The monospaced font in the screen shots is Source Code Pro from Adobe (https://g
 
 It really looks cool!! Enjoy :)
 
+Screenshots:
+
+![Alt text](./Heavenly-Screenshot.PNG?raw=true "Screenshot 1")
+![Alt text](./Heavenly-Screenshot2.PNG?raw=true "Screenshot 2")
+
 NOTE: I have made a few modifications to putty:
 
 1. Scrollback lines - 5000

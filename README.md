@@ -12,6 +12,9 @@ The monospaced font in the screen shots is Source Code Pro from Adobe (https://g
 It really looks cool!! Enjoy :)
 
 NOTE: I have made a few modifications to putty:
+
 1. Scrollback lines - 5000
+
 2. No scrollback bar
+
 3. No bell
